@@ -6,7 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "pre-deploy": "ng build --base-href https://pedrohenriquebr.github.io/faroplastia/",
+    "deploy": "npm run pre-deploy && ngh --dir=dist/faroplastia"
   },
   "private": true,
   "dependencies": {
