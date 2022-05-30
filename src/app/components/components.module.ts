@@ -10,14 +10,15 @@ import { SearchInputComponent } from './search-input/search-input.component';
 @NgModule({
   declarations: [
     ButtonComponent,
-       SearchInputComponent
+    SearchInputComponent
   ],
   imports: [
     CommonModule,
     MaterialModule
   ],
   exports: [
-    MaterialModule
+    MaterialModule,
+    SearchInputComponent
   ]
 })
 export class ComponentsModule { }
