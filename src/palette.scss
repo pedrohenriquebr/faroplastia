@@ -1,0 +1,24 @@
+$purple-palette: (
+ 50: #eee6fe,
+ 100: #d2c2fb,
+ 200: #b399f9,
+ 300: #916df9,
+ 400: #734af7,
+ 500: #4f24f4,
+ 600: #3f20ee,
+ 700: #1d17e6,
+ 800: #0010e1,
+ 900: #0000db,
+ contrast: (
+   50: rgba(black, 0.87),
+   100: rgba(black, 0.87),
+   200: rgba(black, 0.87),
+   300: white,
+   400: white,
+   500: white,
+   600: white,
+   700: white,
+   800: white,
+   900: white,
+ )
+);
