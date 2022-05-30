@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1653804400191,
+  "timestamp": 1653877522387,
   "index": "https://pedrohenriquebr.github.io/faroplastia/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://pedrohenriquebr.github.io/faroplastia/favicon.ico",
         "https://pedrohenriquebr.github.io/faroplastia/index.html",
-        "https://pedrohenriquebr.github.io/faroplastia/main.898c3af879a871d5.js",
+        "https://pedrohenriquebr.github.io/faroplastia/main.d97167f02655b96d.js",
         "https://pedrohenriquebr.github.io/faroplastia/manifest.webmanifest",
         "https://pedrohenriquebr.github.io/faroplastia/polyfills.c0bba3bb557a865d.js",
         "https://pedrohenriquebr.github.io/faroplastia/runtime.fa2adc74edf85488.js",
-        "https://pedrohenriquebr.github.io/faroplastia/styles.ef46db3751d8e999.css"
+        "https://pedrohenriquebr.github.io/faroplastia/styles.1c445a2863f68d16.css"
       ],
       "patterns": []
     },
@@ -35,6 +35,7 @@
         "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-192x192.png",
         "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-384x384.png",
         "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-512x512.png",
+        "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-64x64.png",
         "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-72x72.png",
         "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-96x96.png"
       ],
@@ -43,21 +44,22 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-128x128.png": "79d89d470996d44f8b54c01f64e3ff126db54e91",
-    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-144x144.png": "26f44dcffca189a6f08578e53fdf9aa35d564fe3",
-    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-152x152.png": "cd53f3ad2143b203645a4ba33674bead6fe48dbd",
-    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-192x192.png": "48f791a76bf47855c0c9348bd5c48e832ece6aa5",
-    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-384x384.png": "69ad127ac79821b2b9500d183786d092d1d0b1e3",
-    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-512x512.png": "a113886868c9ba20e3f7e7c1998b6261bd799431",
-    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-72x72.png": "2d82df358d4248571944ac77d919e5b233b662cb",
-    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-96x96.png": "44f185549970468fc02cbf4997ed20fd1c127759",
-    "https://pedrohenriquebr.github.io/faroplastia/favicon.ico": "5e315631b92878fe11c5fbbe456555ff289ae6b2",
-    "https://pedrohenriquebr.github.io/faroplastia/index.html": "18e1fee820a82999af185c6e9b94563f748033cd",
-    "https://pedrohenriquebr.github.io/faroplastia/main.898c3af879a871d5.js": "e676a83342447a42149f0f06ddad0b71dd02153b",
+    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-128x128.png": "8779d65ae02d3805f5925450ff94c3edf0076fdc",
+    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-144x144.png": "ee854508fa0c3b1941063a7ebda60a05f2b9741f",
+    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-152x152.png": "adf6674c6b7e985efaac1f82d1062ad6cf786dfe",
+    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-192x192.png": "95ec10666f68ea32f6c935650aad85fe13667251",
+    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-384x384.png": "39e9702eaa4aab59f4d8f0b2c430d587ed6cac42",
+    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-512x512.png": "435ff58e5946851130e819cdc86dba1a3945bfe3",
+    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-64x64.png": "18c52f3612d7e440f7dc1c126c91bf3fb221311e",
+    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-72x72.png": "dfdc55c2d49455db4bbf012c5496b636437aaf4e",
+    "https://pedrohenriquebr.github.io/faroplastia/assets/icons/icon-96x96.png": "66c63a17c70bb09a1c22240b67a0b07686a7f521",
+    "https://pedrohenriquebr.github.io/faroplastia/favicon.ico": "7d1d73b99ba058aa80374de33a90ab8f913f7971",
+    "https://pedrohenriquebr.github.io/faroplastia/index.html": "d1681b2148307d8bb921c526dd2f53c3c2638af8",
+    "https://pedrohenriquebr.github.io/faroplastia/main.d97167f02655b96d.js": "3128cfbe10d6224fa80b0cb95ca8c2c21e74bafe",
     "https://pedrohenriquebr.github.io/faroplastia/manifest.webmanifest": "5590a1617060705d2fa94dcf12c1454a586a9834",
     "https://pedrohenriquebr.github.io/faroplastia/polyfills.c0bba3bb557a865d.js": "9fcc80ba3dbe596677e1b3709b0cef64082d9404",
     "https://pedrohenriquebr.github.io/faroplastia/runtime.fa2adc74edf85488.js": "788468c145bc129d2d08c91c3d80ada7a0cc1526",
-    "https://pedrohenriquebr.github.io/faroplastia/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://pedrohenriquebr.github.io/faroplastia/styles.1c445a2863f68d16.css": "9740d94ad05d4df50380a0a0e5504e79723ccb15"
   },
   "navigationUrls": [
     {
