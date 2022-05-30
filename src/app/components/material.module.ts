@@ -31,6 +31,7 @@ import { MatTabsModule } from '@angular/material/tabs'
 import { MatTooltipModule } from '@angular/material/tooltip'
 import { MatTreeModule } from '@angular/material/tree'
 import { OverlayModule } from '@angular/cdk/overlay'
+import {MatButtonModule} from '@angular/material/button';
 @NgModule({
   declarations: [],
   imports: [CommonModule],
@@ -66,6 +67,7 @@ import { OverlayModule } from '@angular/cdk/overlay'
     MatTooltipModule,
     MatTreeModule,
     OverlayModule,
+    MatButtonModule
   ],
 })
 export class MaterialModule {}

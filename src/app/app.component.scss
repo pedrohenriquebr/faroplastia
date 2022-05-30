@@ -1,0 +1,14 @@
+mat-sidenav-container {
+  margin-left: 0;
+}
+mat-sidenav {
+  width: 70%;
+}
+
+
+// desktop view
+@media screen and (min-width: 692px) {
+  mat-sidenav {
+    width: 200px;
+  }
+}
