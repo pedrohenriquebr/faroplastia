@@ -13,7 +13,10 @@
   padding-inline: 10px;
   mat-icon {
     color: gray;
-    pointer-events: none;
+  }
+
+  .mat-icon.search-icon::hover {
+    cursor: pointer;
   }
 
   input {
